@@ -1,0 +1,38 @@
+
+div#name{
+    color: darkslategray;
+    background-color: rgb(80, 224, 176);
+    text-align: center;
+    height: 100px;
+    width: 700px;
+    margin:50px auto 20px;
+    padding: 20px;
+    border: 10px solid rgb(134, 255, 235);
+}
+
+
+img{
+    display: block;
+    margin: auto;
+}
+
+p,ol,ul{
+    color: rgb(184, 255, 255);
+    text-align: center;
+}
+
+div{
+    background-color: rgb(2, 41, 41);
+    color: rgb(43, 158, 158);
+    
+    
+}
+
+div#pasatiempos{
+    background-color: rgba(0, 255, 149, 0.041);
+    
+}
+
+a{
+    color: rgb(184, 255, 255);
+}
